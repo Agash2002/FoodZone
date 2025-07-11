@@ -1,8 +1,46 @@
-# React + Vite
+# 🍔 FoodZone – React Food Delivery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **FoodZone**, a modern and responsive food delivery web application built using **React.js** and **CSS**.  
+This project offers a smooth user experience for browsing food, managing a cart, and filtering items by category.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 📋 Dynamic Menu Rendering  
+- 🛒 Real-time Cart Updates  
+- 🍽️ Category-Based Food Filtering  
+- 📱 Fully Responsive Design  
+- 🎨 Clean and Intuitive UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**  
+- **CSS3**  
+- **JavaScript (ES6+)**
+
+> 💡 *Note:* This project uses plain CSS for styling — no Tailwind or Bootstrap.
+
+---
+
+## 🌐 Live Demo
+
+👉 [Click Here to View FoodZone Live](https://food-zone-del.vercel.app/)
+
+---
+
+## 📸 Preview Screenshot
+
+![FoodZone Preview](https://your-screenshot-link-here.com)
+
+---
+
+## 📂 How to Run Locally
+
+```bash
+git clone https://github.com/Agash2002/Weather_app.git
+cd Weather_app
+npm install
+npm start
