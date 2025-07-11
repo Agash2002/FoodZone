@@ -31,9 +31,18 @@ This project offers a smooth user experience for browsing food, managing a cart,
 
 ---
 
-## 📸 Preview Screenshot
+## 📂 Folder Structure (Simplified)
 
-![FoodZone Preview](https://your-screenshot-link-here.com)
+FoodZone/
+├── public/
+├── src/
+│ ├── assets/ # Icons, images
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Page structure
+│ ├── App.js
+│ └── index.js
+├── package.json
+└── README.md
 
 ---
 
