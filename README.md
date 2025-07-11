@@ -53,3 +53,16 @@ git clone https://github.com/Agash2002/Weather_app.git
 cd Weather_app
 npm install
 npm start
+
+---
+
+## 🧠 Skills & Concepts Used
+React Functional Components
+
+useState and Props Handling
+
+Responsive Layout with CSS Grid & Flexbox
+
+Icon Handling via Asset Imports
+
+Component Reusability and Clean Folder Structure
